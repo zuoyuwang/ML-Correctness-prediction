@@ -1,6 +1,8 @@
 # ML-Correctness-prediction
 
-Build machine learning algorithms to predict whether a student can correctly answer a specific diagnostic question based on the student’s previous answers to other questions and other students’ responses.
+This is the CSC311 Final Project in University of Toronto. Group member: Zuoyu Wang, Siqi Chen.
+
+We worked in pairs and build machine learning algorithms to predict whether a student can correctly answer a specific diagnostic question based on the student’s previous answers to other questions and other students’ responses.
 
 Algorithms involved:
 1. k-Nearest Neighbor using scikit-learn.
